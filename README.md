@@ -36,7 +36,7 @@ Je suis titulaire d'un MBA par cadres, d'un baccalauréat en administration aér
 <img align="left" alt="PowerBI" width="26px" src=https://user-images.githubusercontent.com/63738694/124551496-3544ce00-de00-11eb-8661-3a27caeb2b3a.jpg>
 <img align="left" alt="Tableau" width="36px" src=https://user-images.githubusercontent.com/63738694/124550859-548f2b80-ddff-11eb-9783-3769b94e1b8a.png>
 <img align="left" alt="Git" width="50px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png>
-<img align="left" alt="GitHub" width="26px" src=https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png/>
+<img align="left" alt="GitHub" width="26px" src=https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png>
 </details>
 
 
