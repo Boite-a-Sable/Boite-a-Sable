@@ -1,7 +1,7 @@
 # Hi there 👋
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
  
-## Bienvenue dans mon portfolio de science des données. Ma passion est de vous aider à augmenter la compétitivité, la croissance des ventes et les chiffres d'affaires, en transformant les données brutes en informations précieuses pour prendre de meilleures décisions !! Utiliser des technologies de pointe, telles que le Machine Learning ou le Deep Learning (en utilisant Python ou R) 👍
+### Bienvenue dans mon portfolio de science des données. Ma passion est de vous aider à augmenter la compétitivité, la croissance des ventes et les chiffres d'affaires, en transformant les données brutes en informations précieuses pour prendre de meilleures décisions !! Utiliser des technologies de pointe, telles que le Machine Learning ou le Deep Learning (en utilisant Python ou R) 👍
 
 ## >> From Raw Data to Machine Learning (ML) 
 ## >> Des données brutes vers l'Apprentissage automatique (ML)
