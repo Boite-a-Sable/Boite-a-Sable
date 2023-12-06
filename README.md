@@ -19,7 +19,7 @@
 📊 Business Analytics - BA (axé sur l'analyse prédictive), En tant que spécialiste en BI, j'utilise les données pour prédire les tendances et les résultats. J'effectue l'exploration des données, l'analyse statistique et quantitative, la modélisation prédictive pour prendre des décisions éclairées et apporter des changements anticipés. Je résous les problèmes avant qu'ils ne surviennent.
 
 
-  • 💬 Demandez-moi sur : Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, SSIS, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL (Extract-Transfer-Load), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr , Kéras).
+💬 Demandez-moi sur : Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, SSIS, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL (Extract-Transfer-Load), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr , Kéras).
 
 ### Langages et outils:
 
